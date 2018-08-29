@@ -38,7 +38,10 @@ function add(a, b) {
      return number;
    }
    
-   
+   function preserveDecimal(n) {
+     number = parseFloat(n);
+     return number;
+   }
   
   
       
