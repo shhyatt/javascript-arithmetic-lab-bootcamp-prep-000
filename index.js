@@ -28,7 +28,7 @@ function add(a, b) {
     {
   
   function dec(n) {
-    number = n - 1;
+    number = n -1;
     return number
    }
   
